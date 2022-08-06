@@ -1,0 +1,1466 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1094px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 2px;
+  font-size: 3rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 67px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  font-style: italic;
+  width: 653px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 22px auto 0;
+}
+
+.u-section-1 .u-list-1 {
+  margin-top: 67px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-template-columns: calc(25% - 37.5px) calc(25% - 37.5px) calc(25% - 37.5px) calc(25% - 37.5px);
+  min-height: 631px;
+  grid-gap: 50px 50px;
+}
+
+.u-section-1 .u-list-item-1 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.2);
+  transition-duration: 0.75s;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 98px;
+  width: 98px;
+  transition-duration: 0.5s;
+  background-image: none;
+  margin: 30px auto 0;
+  padding: 20px;
+}
+
+.u-section-1 .u-text-3 {
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 400;
+  transition-duration: 0.5s;
+  margin: 30px 20px 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.25rem;
+  transition-duration: 0.5s;
+  margin: 22px 20px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  transition-duration: 0.5s;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  font-weight: 700;
+  margin: 34px auto 0;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none;
+  margin: 24px auto 0;
+  padding: 8px 28px 8px 27px;
+}
+
+.u-section-1 .u-list-item-2 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.2);
+  transition-duration: 0.75s;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 98px;
+  width: 98px;
+  transition-duration: 0.5s;
+  background-image: none;
+  margin: 30px auto 0;
+  padding: 20px;
+}
+
+.u-section-1 .u-text-5 {
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 400;
+  transition-duration: 0.5s;
+  margin: 30px 20px 0;
+}
+
+.u-section-1 .u-text-6 {
+  font-size: 1.25rem;
+  transition-duration: 0.5s;
+  margin: 22px 20px 0;
+}
+
+.u-section-1 .u-btn-3 {
+  transition-duration: 0.5s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  font-weight: 700;
+  margin: 34px auto 0;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-4 {
+  border-style: none;
+  margin: 24px auto 0;
+  padding: 8px 28px 8px 27px;
+}
+
+.u-section-1 .u-list-item-3 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.2);
+  transition-duration: 0.75s;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 0;
+}
+
+.u-section-1 .u-icon-5 {
+  height: 98px;
+  width: 98px;
+  transition-duration: 0.5s;
+  background-image: none;
+  margin: 30px auto 0;
+  padding: 20px;
+}
+
+.u-section-1 .u-text-7 {
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 400;
+  transition-duration: 0.5s;
+  margin: 30px 20px 0;
+}
+
+.u-section-1 .u-text-8 {
+  font-size: 1.25rem;
+  transition-duration: 0.5s;
+  margin: 22px 20px 0;
+}
+
+.u-section-1 .u-btn-5 {
+  transition-duration: 0.5s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  font-weight: 700;
+  margin: 34px auto 0;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-6 {
+  border-style: none;
+  margin: 24px auto 0;
+  padding: 8px 28px 8px 27px;
+}
+
+.u-section-1 .u-list-item-4 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.2);
+  transition-duration: 0.75s;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 0;
+}
+
+.u-section-1 .u-icon-7 {
+  height: 98px;
+  width: 98px;
+  transition-duration: 0.5s;
+  background-image: none;
+  margin: 30px auto 0;
+  padding: 20px;
+}
+
+.u-section-1 .u-text-9 {
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 400;
+  transition-duration: 0.5s;
+  margin: 30px 20px 0;
+}
+
+.u-section-1 .u-text-10 {
+  font-size: 1.25rem;
+  transition-duration: 0.5s;
+  margin: 22px 20px 0;
+}
+
+.u-section-1 .u-btn-7 {
+  transition-duration: 0.5s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  font-weight: 700;
+  margin: 34px auto 0;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-8 {
+  border-style: none;
+  margin: 24px auto 0;
+  padding: 8px 28px 8px 27px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 965px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    min-height: 520px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-8 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-9 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-10 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1334px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: calc(50% - 25px) calc(50% - 25px);
+    min-height: 1593px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1819px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1774px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+}
+
+.u-section-1 .u-list-item-1,
+.u-section-1 .u-list-item-1:before,
+.u-section-1 .u-list-item-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-list-item-1.u-list-item-1.u-list-item-1:hover:before {
+  background-color: #db545a !important;
+}
+
+.u-section-1 .u-list-item-2,
+.u-section-1 .u-list-item-2:before,
+.u-section-1 .u-list-item-2 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-list-item-2.u-list-item-2.u-list-item-2:hover:before {
+  background-color: #db545a !important;
+}
+
+.u-section-1 .u-list-item-3,
+.u-section-1 .u-list-item-3:before,
+.u-section-1 .u-list-item-3 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-list-item-3.u-list-item-3.u-list-item-3:hover:before {
+  background-color: #db545a !important;
+}
+
+.u-section-1 .u-list-item-4,
+.u-section-1 .u-list-item-4:before,
+.u-section-1 .u-list-item-4 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-list-item-4.u-list-item-4.u-list-item-4:hover:before {
+  background-color: #db545a !important;
+}
+
+.u-section-1 .u-icon-1,
+.u-section-1 .u-icon-1:before,
+.u-section-1 .u-icon-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-icon-1 .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-icon-1 {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-icon-1 .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-icon-1 {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-section-1 .u-icon-3,
+.u-section-1 .u-icon-3:before,
+.u-section-1 .u-icon-3 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-icon-3 .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-icon-3 {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-icon-3 .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-icon-3 {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-section-1 .u-icon-5,
+.u-section-1 .u-icon-5:before,
+.u-section-1 .u-icon-5 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-icon-5 .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-icon-5 {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-icon-5 .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-icon-5 {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-section-1 .u-icon-7,
+.u-section-1 .u-icon-7:before,
+.u-section-1 .u-icon-7 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-icon-7 .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-icon-7 {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-icon-7 .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-icon-7 {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-section-1 .u-text-3,
+.u-section-1 .u-text-3:before,
+.u-section-1 .u-text-3 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-text-3 {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-text-3 {
+  color: #ffffff !important;
+}
+
+.u-section-1 .u-text-5,
+.u-section-1 .u-text-5:before,
+.u-section-1 .u-text-5 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-text-5 {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-text-5 {
+  color: #ffffff !important;
+}
+
+.u-section-1 .u-text-7,
+.u-section-1 .u-text-7:before,
+.u-section-1 .u-text-7 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-text-7 {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-text-7 {
+  color: #ffffff !important;
+}
+
+.u-section-1 .u-text-9,
+.u-section-1 .u-text-9:before,
+.u-section-1 .u-text-9 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-text-9 {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-text-9 {
+  color: #ffffff !important;
+}
+
+.u-section-1 .u-text-8,
+.u-section-1 .u-text-8:before,
+.u-section-1 .u-text-8 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-text-8 {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-text-8 {
+  color: #ffffff !important;
+}
+
+.u-section-1 .u-text-4,
+.u-section-1 .u-text-4:before,
+.u-section-1 .u-text-4 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-text-4 {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-text-4 {
+  color: #ffffff !important;
+}
+
+.u-section-1 .u-text-6,
+.u-section-1 .u-text-6:before,
+.u-section-1 .u-text-6 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-text-6 {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-text-6 {
+  color: #ffffff !important;
+}
+
+.u-section-1 .u-text-10,
+.u-section-1 .u-text-10:before,
+.u-section-1 .u-text-10 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-text-10 {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-text-10 {
+  color: #ffffff !important;
+}
+
+.u-section-1 .u-btn-5,
+.u-section-1 .u-btn-5:before,
+.u-section-1 .u-btn-5 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-btn-5 {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-btn-5 {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-section-1 .u-btn-1,
+.u-section-1 .u-btn-1:before,
+.u-section-1 .u-btn-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-btn-1 {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-btn-1 {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-section-1 .u-btn-3,
+.u-section-1 .u-btn-3:before,
+.u-section-1 .u-btn-3 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-btn-3 {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-btn-3 {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-section-1 .u-btn-7,
+.u-section-1 .u-btn-7:before,
+.u-section-1 .u-btn-7 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-btn-7 {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-btn-7 {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-70:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-70:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-70:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-block-5cc8-70:not([data-block-selected]):not([data-cell-selected]).u-block-5cc8-70:not([data-block-selected]):not([data-cell-selected]).u-block-5cc8-70:not([data-block-selected]):not([data-cell-selected]):hover:before {
+  background-color: #db545a !important;
+}
+
+.u-block-5cc8-78:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-78:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-78:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-block-5cc8-78:not([data-block-selected]):not([data-cell-selected]).u-block-5cc8-78:not([data-block-selected]):not([data-cell-selected]).u-block-5cc8-78:not([data-block-selected]):not([data-cell-selected]):hover:before {
+  background-color: #db545a !important;
+}
+
+.u-block-5cc8-86:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-86:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-86:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-block-5cc8-86:not([data-block-selected]):not([data-cell-selected]).u-block-5cc8-86:not([data-block-selected]):not([data-cell-selected]).u-block-5cc8-86:not([data-block-selected]):not([data-cell-selected]):hover:before {
+  background-color: #db545a !important;
+}
+
+.u-block-5cc8-94:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-94:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-94:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-block-5cc8-94:not([data-block-selected]):not([data-cell-selected]).u-block-5cc8-94:not([data-block-selected]):not([data-cell-selected]).u-block-5cc8-94:not([data-block-selected]):not([data-cell-selected]):hover:before {
+  background-color: #db545a !important;
+}
+
+.u-block-5cc8-102:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-102:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-102:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-block-5cc8-102:not([data-block-selected]):not([data-cell-selected]).u-block-5cc8-102:not([data-block-selected]):not([data-cell-selected]).u-block-5cc8-102:not([data-block-selected]):not([data-cell-selected]):hover:before {
+  background-color: #db545a !important;
+}
+
+.u-block-5cc8-110:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-110:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-110:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-block-5cc8-110:not([data-block-selected]):not([data-cell-selected]).u-block-5cc8-110:not([data-block-selected]):not([data-cell-selected]).u-block-5cc8-110:not([data-block-selected]):not([data-cell-selected]):hover:before {
+  background-color: #db545a !important;
+}
+
+.u-block-5cc8-118:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-118:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-118:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-block-5cc8-118:not([data-block-selected]):not([data-cell-selected]).u-block-5cc8-118:not([data-block-selected]):not([data-cell-selected]).u-block-5cc8-118:not([data-block-selected]):not([data-cell-selected]):hover:before {
+  background-color: #db545a !important;
+}
+
+.u-block-5cc8-126:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-126:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-126:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-block-5cc8-126:not([data-block-selected]):not([data-cell-selected]).u-block-5cc8-126:not([data-block-selected]):not([data-cell-selected]).u-block-5cc8-126:not([data-block-selected]):not([data-cell-selected]):hover:before {
+  background-color: #db545a !important;
+}
+
+.u-block-5cc8-134:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-134:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-134:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-block-5cc8-134:not([data-block-selected]):not([data-cell-selected]).u-block-5cc8-134:not([data-block-selected]):not([data-cell-selected]).u-block-5cc8-134:not([data-block-selected]):not([data-cell-selected]):hover:before {
+  background-color: #db545a !important;
+}
+
+.u-block-5cc8-142:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-142:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-142:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-block-5cc8-142:not([data-block-selected]):not([data-cell-selected]).u-block-5cc8-142:not([data-block-selected]):not([data-cell-selected]).u-block-5cc8-142:not([data-block-selected]):not([data-cell-selected]):hover:before {
+  background-color: #db545a !important;
+}
+
+.u-block-5cc8-72:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-72:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-72:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-72:not([data-block-selected]):not([data-cell-selected]) .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout:hover .u-block-5cc8-72:not([data-block-selected]):not([data-cell-selected]) {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-72:not([data-block-selected]):not([data-cell-selected]) .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-72:not([data-block-selected]):not([data-cell-selected]) {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-block-5cc8-73:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-73:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-73:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-73:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-73:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-74:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-74:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-74:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-74:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-74:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-75:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-75:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-75:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-75:not([data-block-selected]):not([data-cell-selected]) {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-75:not([data-block-selected]):not([data-cell-selected]) {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-80:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-80:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-80:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-80:not([data-block-selected]):not([data-cell-selected]) .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout:hover .u-block-5cc8-80:not([data-block-selected]):not([data-cell-selected]) {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-80:not([data-block-selected]):not([data-cell-selected]) .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-80:not([data-block-selected]):not([data-cell-selected]) {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-block-5cc8-81:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-81:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-81:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-81:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-81:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-82:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-82:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-82:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-82:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-82:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-83:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-83:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-83:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-83:not([data-block-selected]):not([data-cell-selected]) {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-83:not([data-block-selected]):not([data-cell-selected]) {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-88:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-88:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-88:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-88:not([data-block-selected]):not([data-cell-selected]) .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout:hover .u-block-5cc8-88:not([data-block-selected]):not([data-cell-selected]) {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-88:not([data-block-selected]):not([data-cell-selected]) .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-88:not([data-block-selected]):not([data-cell-selected]) {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-block-5cc8-89:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-89:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-89:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-89:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-89:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-90:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-90:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-90:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-90:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-90:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-91:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-91:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-91:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-91:not([data-block-selected]):not([data-cell-selected]) {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-91:not([data-block-selected]):not([data-cell-selected]) {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-96:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-96:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-96:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-96:not([data-block-selected]):not([data-cell-selected]) .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout:hover .u-block-5cc8-96:not([data-block-selected]):not([data-cell-selected]) {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-96:not([data-block-selected]):not([data-cell-selected]) .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-96:not([data-block-selected]):not([data-cell-selected]) {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-block-5cc8-97:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-97:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-97:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-97:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-97:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-98:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-98:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-98:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-98:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-98:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-99:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-99:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-99:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-99:not([data-block-selected]):not([data-cell-selected]) {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-99:not([data-block-selected]):not([data-cell-selected]) {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-104:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-104:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-104:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-104:not([data-block-selected]):not([data-cell-selected]) .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout:hover .u-block-5cc8-104:not([data-block-selected]):not([data-cell-selected]) {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-104:not([data-block-selected]):not([data-cell-selected]) .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-104:not([data-block-selected]):not([data-cell-selected]) {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-block-5cc8-105:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-105:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-105:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-105:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-105:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-106:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-106:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-106:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-106:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-106:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-107:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-107:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-107:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-107:not([data-block-selected]):not([data-cell-selected]) {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-107:not([data-block-selected]):not([data-cell-selected]) {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-112:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-112:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-112:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-112:not([data-block-selected]):not([data-cell-selected]) .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout:hover .u-block-5cc8-112:not([data-block-selected]):not([data-cell-selected]) {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-112:not([data-block-selected]):not([data-cell-selected]) .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-112:not([data-block-selected]):not([data-cell-selected]) {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-block-5cc8-113:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-113:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-113:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-113:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-113:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-114:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-114:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-114:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-114:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-114:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-115:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-115:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-115:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-115:not([data-block-selected]):not([data-cell-selected]) {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-115:not([data-block-selected]):not([data-cell-selected]) {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-120:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-120:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-120:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-120:not([data-block-selected]):not([data-cell-selected]) .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout:hover .u-block-5cc8-120:not([data-block-selected]):not([data-cell-selected]) {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-120:not([data-block-selected]):not([data-cell-selected]) .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-120:not([data-block-selected]):not([data-cell-selected]) {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-block-5cc8-121:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-121:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-121:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-121:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-121:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-122:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-122:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-122:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-122:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-122:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-123:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-123:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-123:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-123:not([data-block-selected]):not([data-cell-selected]) {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-123:not([data-block-selected]):not([data-cell-selected]) {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-128:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-128:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-128:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-128:not([data-block-selected]):not([data-cell-selected]) .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout:hover .u-block-5cc8-128:not([data-block-selected]):not([data-cell-selected]) {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-128:not([data-block-selected]):not([data-cell-selected]) .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-128:not([data-block-selected]):not([data-cell-selected]) {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-block-5cc8-129:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-129:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-129:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-129:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-129:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-130:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-130:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-130:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-130:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-130:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-131:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-131:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-131:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-131:not([data-block-selected]):not([data-cell-selected]) {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-131:not([data-block-selected]):not([data-cell-selected]) {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-136:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-136:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-136:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-136:not([data-block-selected]):not([data-cell-selected]) .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout:hover .u-block-5cc8-136:not([data-block-selected]):not([data-cell-selected]) {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-136:not([data-block-selected]):not([data-cell-selected]) .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-136:not([data-block-selected]):not([data-cell-selected]) {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-block-5cc8-137:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-137:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-137:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-137:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-137:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-138:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-138:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-138:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-138:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-138:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-139:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-139:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-139:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-139:not([data-block-selected]):not([data-cell-selected]) {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-139:not([data-block-selected]):not([data-cell-selected]) {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-144:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-144:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-144:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-144:not([data-block-selected]):not([data-cell-selected]) .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout:hover .u-block-5cc8-144:not([data-block-selected]):not([data-cell-selected]) {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-144:not([data-block-selected]):not([data-cell-selected]) .u-svg-link {
+  fill: var(--#ffffff) !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-144:not([data-block-selected]):not([data-cell-selected]) {
+  background-color: #db545a !important;
+  opacity: 1 !important;
+}
+
+.u-block-5cc8-145:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-145:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-145:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-145:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-145:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-146:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-146:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-146:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-146:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-146:not([data-block-selected]):not([data-cell-selected]) {
+  color: #ffffff !important;
+}
+
+.u-block-5cc8-147:not([data-block-selected]):not([data-cell-selected]),
+.u-block-5cc8-147:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-5cc8-147:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-5cc8-147:not([data-block-selected]):not([data-cell-selected]) {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}
+
+.u-container-layout.hover .u-block-5cc8-147:not([data-block-selected]):not([data-cell-selected]) {
+  transform: translateX(0px) translateY(-5px) scale(1) !important;
+  color: #ffffff !important;
+}.u-section-2 .u-sheet-1 {
+  min-height: 10px;
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 568px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 530px;
+  }
+}
+
+.u-block-null-49:not([data-block-selected]):not([data-cell-selected]),
+.u-block-null-49:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-null-49:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-block-null-49:not([data-block-selected]):not([data-cell-selected]).u-block-null-49:not([data-block-selected]):not([data-cell-selected]).u-block-null-49:not([data-block-selected]):not([data-cell-selected]):hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+}
+
+.u-block-null-49:not([data-block-selected]):not([data-cell-selected]).u-block-null-49:not([data-block-selected]):not([data-cell-selected]).u-block-null-49:not([data-block-selected]):not([data-cell-selected]).hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout:hover .u-block-null-49:not([data-block-selected]):not([data-cell-selected]) {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-block-null-49:not([data-block-selected]):not([data-cell-selected]) {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-block-null-48:not([data-block-selected]):not([data-cell-selected]),
+.u-block-null-48:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-null-48:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-block-null-48:not([data-block-selected]):not([data-cell-selected]).u-block-null-48:not([data-block-selected]):not([data-cell-selected]).u-block-null-48:not([data-block-selected]):not([data-cell-selected]):hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+}
+
+.u-block-null-48:not([data-block-selected]):not([data-cell-selected]).u-block-null-48:not([data-block-selected]):not([data-cell-selected]).u-block-null-48:not([data-block-selected]):not([data-cell-selected]).hover {
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout:hover .u-block-null-48:not([data-block-selected]):not([data-cell-selected]) {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-block-null-48:not([data-block-selected]):not([data-cell-selected]) {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
