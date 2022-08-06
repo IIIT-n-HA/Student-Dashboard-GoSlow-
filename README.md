@@ -14,3 +14,5 @@ We have made one login page, one home page and one is our go-to-menu page which 
 1-> First fork this repo.
 2-> Clone it to your local machine.
 3-> Then after that run the index.html.
+
+Or else direct visit this link :- https://stdashgs.000webhostapp.com/
